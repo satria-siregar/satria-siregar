@@ -1,5 +1,5 @@
 ### Hi there, I'm Satria from Indonesia 👋
-
+I am student on Ahmad Dahlan University
 <!--
 **satria-siregar/satria-siregar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
